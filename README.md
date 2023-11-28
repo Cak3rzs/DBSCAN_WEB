@@ -27,5 +27,5 @@ Python 3.x
 Bibliotecas: Tkinter, Folium, NumPy, scikit-learn<br><br>
 Como Executar:<br>
 Clone o repositório.<br>
-Instale as dependências e bibliotecas<br>
+Instale as dependências e bibliotecas e crie um novo ambiente virtual usando o .env<br>
 Execute o script teste.py.
